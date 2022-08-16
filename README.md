@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaximosKalaitzoglou
-- 👀 I’m interested in Machine learning,music composing,Artificial Intelligence,Software development!!
+- 👀 I’m interested in Web Development
 <!---- 🌱 I’m currently a student in University of Ioannina Msc computer science and engineering
 --->
 <!---
